@@ -1,5 +1,5 @@
 {
-    "name": "jason/fadada-sdk",
+    "name": "hajtjh/fadada-sdk",
     "description": "法大大PHPSDK",
     "require-dev": {
         "php": ">=7.0"
